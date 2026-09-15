@@ -1,0 +1,9 @@
+StormCrates — automatyczna kompilacja na GitHubie
+
+1. Utwórz nowe repozytorium na GitHubie.
+2. Wgraj całą zawartość tego archiwum do repozytorium.
+3. Otwórz zakładkę „Actions”.
+4. Wybierz workflow „Build StormCrates”.
+5. Kliknij „Run workflow”.
+6. Po zakończeniu otwórz uruchomienie i pobierz artefakt „StormCrates”.
+7. W środku znajdziesz gotowy plik JAR pluginu.

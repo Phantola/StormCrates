@@ -1,0 +1,40 @@
+# StormCrates 1.1.3 - wszystkie komunikaty i nazwy są po polsku.
+waluta-symbol: "$"
+
+ceny-kluczy:
+  rzadka: 899
+  epicka: 2057
+  mityczna: 10000
+  custom: 100000
+
+sprzedaz:
+  domyslna-cena-za-sztuke: 1.0
+  ceny:
+    DIAMOND: 120
+    EMERALD: 85
+    NETHERITE_INGOT: 950
+    GOLD_INGOT: 25
+    IRON_INGOT: 10
+    REDSTONE: 2
+    LAPIS_LAZULI: 2
+    COAL: 3
+
+custom:
+  sfera-czas-sekundy: 20
+  sfera-cooldown-sekundy: 120
+  dash-cooldown-sekundy: 15
+  naprawa-cooldown-sekundy: 10
+  proca-bedrock-cooldown-sekundy: 700
+  blokada-elytry-dystans: 30
+  kasowanie-slotu-cooldown-sekundy: 30
+# Skrzynia Kostiumów może być rozdawana przez admina; dodaj cenę klucza, jeśli ma być kupowalny.
+
+# Nowe skrzynie. Ustaw ceny, jeśli klucze mają być kupowalne.
+# ceny-kluczy:
+#   budowniczego: 5000
+#   chaosu: 15000
+
+airdrop:
+  min-minuty: 45
+  max-minuty: 90
+  promien: 1500
